@@ -1,1 +1,1 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=승민백준id)](https://solved.ac/승민백준id)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=seong9180)](https://solved.ac/seong9180)
